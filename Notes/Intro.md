@@ -62,4 +62,6 @@
 
 ---
 
+## alway run this url in the chrome
 
+http://localhost/PHP/filename.php
