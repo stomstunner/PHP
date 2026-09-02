@@ -5,9 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body>
+<body> 
+
     <form action="12formloop.php" method="post">
-        <label>Enter a number to count to: </label><br><br>
+        <label>Enter a number to count to:- </label><br><br>
         <input type="text" name="counter"><br><br>
         <button type="submit">Submit</button><br><br>
     </form>
